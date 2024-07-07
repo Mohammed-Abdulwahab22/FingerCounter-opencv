@@ -6,4 +6,5 @@ Python 3.10 or higher
 OpenCV 
 
 ![Alt Text](Screenshot2024-07-07153755.png)
-![Alt Text](Screenshot2024-07-07 153840.png)
+![Alt Text](Screenshot2024-07-07153840.png)
+![Alt Text](Screenshot2024-07-07153906.png)
