@@ -5,4 +5,4 @@ Dependencies
 Python 3.10 or higher
 OpenCV 
 
-![Screenshot 2024-07-07 153755](Screenshot 2024-07-07 153755.png)
+![Alt Text](Screenshot 2024-07-07 153755.png)
