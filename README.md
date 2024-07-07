@@ -5,4 +5,4 @@ Dependencies
 Python 3.10 or higher
 OpenCV 
 
-![Alt Text](FingerCounter-opencv/Screenshot2024-07-07153755.png)
+![Alt Text](Screenshot2024-07-07153755.png)
