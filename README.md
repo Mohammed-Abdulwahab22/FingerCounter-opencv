@@ -4,3 +4,5 @@ This project uses OpenCV to count the number of fingers displayed in front of a 
 Dependencies
 Python 3.10 or higher
 OpenCV 
+
+![Screenshot 2024-07-07 153755](Screenshot 2024-07-07 153755.png)
